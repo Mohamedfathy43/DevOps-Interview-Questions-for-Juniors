@@ -5,7 +5,7 @@
 # DevOps Interview Questions for Juniors
 > DevOps Interview Questions and Answers for Junior DevOps Engineers 
 
-**Disclaimer:**
+**Disclaimerm:**
 - You are welcome to edit and add Questions/answers through Pull Request
 - These questions are for the Junior/beginner in the DevOps field
 - These questions are not for specific companies/entities, this cover the most popular DevOps tools, and these tools may vary from one company to another based on the technology stack used by it .. so you need to check the job requirements for the position you are applying and focus on what is there.
